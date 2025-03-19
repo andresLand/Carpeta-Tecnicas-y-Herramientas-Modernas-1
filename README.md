@@ -1,3 +1,3 @@
 # Módulo 1
 ## Grupo Inter
-* Ana Dominguez legajo
+* Ana Paula Dominguez legajo
