@@ -2,22 +2,26 @@
 ## Grupo Inter
 * Ana Paula Dominguez - Legajo: 14071
 
-![image](https://github.com/user-attachments/assets/f961afa0-5743-4474-9231-31b419a6dc6b)
+![image](https://github.com/user-attachments/assets/1e5605cd-7285-4233-9732-465fcb35138e)
 
   
 * Tomás Aliaga - Legajo: 13459
 
-  ![image](https://github.com/user-attachments/assets/3ebfc482-4ab7-4b1c-bddb-4cda8edf0621)
+  ![image](https://github.com/user-attachments/assets/328d5558-544d-4dac-aff6-02f55f61427b)
+
 
 * Andrés Pablo Landgrebe - Legajo: 13751
 
-![image](https://github.com/user-attachments/assets/257c8a7d-bd4d-4b7a-a36e-de90aa329304)
+![image](https://github.com/user-attachments/assets/287cd520-c2bd-439a-b179-6a36113eba14)
+
 
   
 * Anastasia Bekerman - Legajo: 14103
 
-   ![image](https://github.com/user-attachments/assets/f9d8497f-5941-476b-82da-56cd11cdf606)
+   ![image](https://github.com/user-attachments/assets/870c3651-030f-4a81-875f-a9879e58a071)
+
 
 * Juan Ignacio Fernandez - Legajo: 13711
 
-![image](https://github.com/user-attachments/assets/3cdead24-2e57-4ecf-99c1-32beee10b196)
+![image](https://github.com/user-attachments/assets/a8a9ae1b-df50-4b71-98ae-19b2ca72b3fb)
+
