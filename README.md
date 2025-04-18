@@ -20,8 +20,9 @@
 
     ![image](https://github.com/user-attachments/assets/287cd520-c2bd-439a-b179-6a36113eba14)
   ---
-[MÓDULO 1](link url)
+
 Módulo 1: Producción de textos e Hipertextos
+
 [Módulo 1]()
 
 Módulo 2: Programación en R-Cran
