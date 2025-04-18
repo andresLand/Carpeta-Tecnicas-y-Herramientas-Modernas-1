@@ -1,4 +1,4 @@
-#Grupo Inter
+# Grupo Inter
 ### Integrantes del grupo (5 integrantes)
 * Aliaga, Tomás - Legajo: 13459
 
