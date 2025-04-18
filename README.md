@@ -1,5 +1,4 @@
-# Módulo 1
-## Grupo Inter
+#Grupo Inter
 ### Integrantes del grupo (5 integrantes)
 * Aliaga, Tomás - Legajo: 13459
 
@@ -20,4 +19,6 @@
 * Landgrebe, Andrés Pablo - Legajo: 13751
 
     ![image](https://github.com/user-attachments/assets/287cd520-c2bd-439a-b179-6a36113eba14)
-  
+  ---
+[MÓDULO 1](link url)
+[MÓDULO 2]
