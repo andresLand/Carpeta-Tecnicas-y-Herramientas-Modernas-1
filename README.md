@@ -23,7 +23,7 @@
 
 Módulo 1: Producción de textos e Hipertextos
 
-[Módulo 1](https://github.com/andresLand/Carpeta-Tecnicas-y-Herramientas-Modernas-1)
+[Módulo 1](https://github.com/andresLand/M-dulo1)
 
 Módulo 2: Programación en R-Cran
 
