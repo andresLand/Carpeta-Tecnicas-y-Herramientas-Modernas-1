@@ -27,7 +27,7 @@ Módulo 1: Producción de textos e Hipertextos
 
 Módulo 2: Programación en R-Cran
 
-Módulo 2
+[Módulo 2](https://github.com/AnaPaulaDominguez/MODULO-2)
 
 Módulo 3: Gemelos Digitales
 
