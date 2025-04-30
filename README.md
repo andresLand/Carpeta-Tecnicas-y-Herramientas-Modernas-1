@@ -31,8 +31,8 @@ Módulo 2: Programación en R-Cran
 
 Módulo 3: Gemelos Digitales
 
-Módulo 3
+[Módulo 3](https://github.com/jifernandez-ar/Modulo--3)
 
 Módulo 4: Infraestructuras críticas
 
-Módulo 4
+[Módulo 4](https://github.com/TomiAliaga/modulo-4/blob/main/README.md)
